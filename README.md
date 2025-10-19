@@ -20,6 +20,13 @@ A feature-rich chess game supporting multiple variants (standard chess, atomic c
 - **Concurrency:** Atomic variables, thread-safe move calculation
 - **Design Patterns:** Observer, Factory
 
+## Pictures
+
+<img width="686" height="665" alt="image" src="https://github.com/user-attachments/assets/e144c3e7-667e-4ed8-8e8d-a2307753d2ae" />
+<img width="141" height="170" alt="image" src="https://github.com/user-attachments/assets/76b6a7d1-16d1-49af-bc9d-57d93a5a854f" />
+
+
+
 ## Building & Running
 
 ### Prerequisites
