@@ -5,7 +5,7 @@ A feature-rich chess game supporting multiple variants (standard chess, atomic c
 ## Features
 
 - **Multiple Game Variants** – Standard chess and atomic chess (captures explode pieces)
-- **AI Opponents** – Three difficulty levels using brute-force logic with complex computations
+- **Computer (Non-human) Opponents** – Three difficulty levels using brute-force logic with complex computations
 - **Real-Time Rendering** – Custom differential update algorithm achieving 2.25x performance improvement
 - **Thread-Safe Game Engine** – Concurrent AI move calculation without blocking UI
 - **Object-Oriented Architecture** – Observer and Factory design patterns for maintainability
